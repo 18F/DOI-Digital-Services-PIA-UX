@@ -30,6 +30,10 @@ Agencies collect information for the PIA through different templates.  Some appe
 
 [NARA's PIA Assessments](https://www.archives.gov/privacy/privacy-impact-assessments)
 
+[Dept. of State PIA Examples](https://foia.state.gov/Learn/PIA.aspx) - streamlined, simple PIA examples.
+- [Social Media PIA](https://foia.state.gov/_docs/PIA/DepartmentWideSocialMedia.pdf)
+- [Innocentive Challenge Platform](https://foia.state.gov/_docs/PIA/Innocentive%20PIA.pdf)
+
 ## Other Resources 
 
 [HIMSS Guide to PIA for Health Care](https://www.himss.org/sites/himssorg/files/HIMSSorg/Content/files/D87_HIMSS_PIA_Guide_.pdf) - a good summary of PIA as applied within health care environments.
