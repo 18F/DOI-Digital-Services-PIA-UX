@@ -26,6 +26,8 @@ Agencies collect information for the PIA through different templates.  Some appe
 [Dept. Homeland Security](https://www.dhs.gov/privacy-impact-assessments)
 - [DHS Template and Guidance](https://www.dhs.gov/publication/privacy-impact-assessment-guidance)
 
+[Dept. of Justice](https://www.justice.gov/opcl/docs/doj-pia-template.pdf) - another well organized template, with examples for certain sections.
+
 [NIST PIA Assessments](https://www.nist.gov/nist-privacy-impact-assessments) - various programs and systems are captured here.
 
 [National Science Foundation PIA Assessments](https://nsf.gov/policies/pia.jsp) - Research.gov, Fastlane, iTRAK and more.
