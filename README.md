@@ -10,6 +10,8 @@ Agencies collect information for the PIA through different templates.  Some appe
 
 [CDC PIA Guide](http://www2.cdc.gov/cdcup/library/process_guides/doc/CDC_UP_Process_Guide_PIA.doc) - a good brief on what the PIA is, what it should be used for, and a list of resources.  Also includes a flowchart of the approval process for a system, and where a PIA fits into that.
 
+[DISA Template](http://www.disa.mil/~/media/Files/DISA/About/Privacy-Office/DD_Form_2930_PIA_Sections_1-2.pdf) - probably one of the more straightforward, well organized form examples.
+
 [FDIC Active PIAs and Template](https://www.fdic.gov/about/privacy/assessments.html) - the FDIC template appears to well organized and streamlined.
 
 [FTC PIA Assessments](https://www.ftc.gov/site-information/privacy-policy/privacy-impact-assessments)
