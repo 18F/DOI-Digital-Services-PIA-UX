@@ -9,7 +9,7 @@
 - [ ] New PIA
 - [ ] Modification of existing PIA
 
-If a modification, what was the name of the previous PIA?
+###If a modification, what was the name of the previous PIA?
 
 ##What is this system for?
 ##What is the legal authority? 
@@ -40,7 +40,7 @@ If a modification, what was the name of the previous PIA?
 
 ##Indicate the sources for this information. (Check all that apply):
 
-Directly from the individual about whom the information pertains
+###Directly from the individual about whom the information pertains
 - [ ] In person
 - [ ] Telephone
 - [ ] Hard copy: mail / fax
@@ -48,7 +48,7 @@ Directly from the individual about whom the information pertains
 - [ ] Online
 - [ ] Other (describe)
 
-Government sources
+###Government sources
 - [ ] Within the bureau
 - [ ] Within the agency
 - [ ] Within another federal entity or entities
@@ -56,7 +56,7 @@ Government sources
 - [ ] Foreigh
 - [ ] Other (describe)
 
-Non-government sources
+###Non-government sources
 - [ ] Members of the public
 - [ ] Commercial data brokers
 - [ ] Public media, interest
@@ -67,19 +67,21 @@ Non-government sources
 ##What is the intended use of the PII collected?
 ##With whom will the PII be shared, both within DOI and outside DOI?  
 ##What information is provided to an individual when asked to provide PII data?  
-##2)	Can individuals “opt-out” by declining to provide PII or by consenting only to a particular use (e.g., allowing basic use of their personal information, but not sharing with other government agencies)?
+##Can individuals “opt-out” by declining to provide PII or by consenting only to a particular use (e.g., allowing basic use of their personal information, but not sharing with other government agencies)?
 - [ ] Yes  
-If yes, explain the issues and circumstances of being able to opt-out (either for specific data elements or specific uses of the data): <input type="text" id="yesoptout" name="yesoptout"/>
 - [ ] No
+
+If yes, explain the issues and circumstances of being able to opt-out (either for specific data elements or specific uses of the data): 
+
 ##How will the data be retrieved?  List the identifiers that will be used to retrieve information (e.g., name, case number, etc.).
 ##Will reports be produced on individuals?
 
 #Maintenance and Administrative Controls
 ##How will data collected from sources other than DOI records be verified for accuracy?
-##24)	Is the PII collected verified for accuracy?  Why or why not?  
-##25)	Is the PII current?  How is this determined? 
+##Is the PII collected verified for accuracy?  Why or why not?  
+##Is the PII current?  How is this determined? 
 ##What are the retention periods of PII for this system?  Under what guidelines are the retention periods determined?  Who establishes the retention guidelines?  
-##28)	What are the procedures for disposition of the PII at the end of the retention period?  How long will any reports that contain PII be maintained?  How is the information disposed (e.g., shredding, degaussing, overwriting, etc.)?  Who establishes the decommissioning procedures?  
+##What are the procedures for disposition of the PII at the end of the retention period?  How long will any reports that contain PII be maintained?  How is the information disposed (e.g., shredding, degaussing, overwriting, etc.)?  Who establishes the decommissioning procedures?  
 ##Briefly describe privacy risks and information handling practices at each stage of the “information lifecycle” (i.e., collection, use, retention, processing, disclosure and destruction) affect individual privacy.
 
 #PII Safeguards and Liabilities
