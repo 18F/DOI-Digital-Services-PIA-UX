@@ -2,9 +2,14 @@
 
 #General System Information
 ##Is a PIA required? 
-##What is the purpose of the system?
+- [ ] Yes
+- [ ] No
+##Is this a new PIA or a modification?
+- [ ] New PIA
+- [ ] Modification of existing PIA
+If a modification, what was the name of the previous PIA?
+##What is this system for?
 ##What is the legal authority? 
-##Why is this PIA being completed or modified? 
 ##Is this information system registered in CSAM? 
 ##List all minor applications or subsystems that are hosted on this system and covered under this privacy impact assessment. 
 ##Does this information system or electronic collection require a published Privacy Act System of Records Notice (SORN)? 
@@ -19,7 +24,10 @@
 | Enter text | Select One                                        | Enter Text  | Enter Text                   | Enter Text |
 | Enter text | Select One                                        | Enter Text  | Enter Text                   | Enter Text |
 
-##What PII (name, social security number, date of birth, address, etc.) will be collected?  
+##What PII (name, social security number, date of birth, address, etc.) will be collected?  Select all that apply:
+- [ ] Name
+- [ ] Address
+- [ ] Social Security Number
 ##What is the source for the PII collected?  
 ##How will the information be collected?  
 ##What is the intended use of the PII collected?
@@ -32,15 +40,15 @@ If yes, explain the issues and circumstances of being able to opt-out (either fo
 ##How will the data be retrieved?  List the identifiers that will be used to retrieve information (e.g., name, case number, etc.).
 ##Will reports be produced on individuals?
 
-#Description of System Data
+#Maintenance and Administrative Controls
 ##How will data collected from sources other than DOI records be verified for accuracy?
-##How will data be checked for completeness?
-##What procedures are taken to ensure the data is current?  Identify the process or name the document (e.g., data models).
-##What are the retention periods for data in the system?  Identify the associated records retention schedule for the records in this system.
-##What are the procedures for disposition of the data at the end of the retention period? Where are the procedures documented?
+##24)	Is the PII collected verified for accuracy?  Why or why not?  
+##25)	Is the PII current?  How is this determined? 
+##What are the retention periods of PII for this system?  Under what guidelines are the retention periods determined?  Who establishes the retention guidelines?  
+##28)	What are the procedures for disposition of the PII at the end of the retention period?  How long will any reports that contain PII be maintained?  How is the information disposed (e.g., shredding, degaussing, overwriting, etc.)?  Who establishes the decommissioning procedures?  
 ##Briefly describe privacy risks and information handling practices at each stage of the “information lifecycle” (i.e., collection, use, retention, processing, disclosure and destruction) affect individual privacy.
 
-#Risk Review
+#PII Safeguards and Liabilities
 ##Is the use of the data both relevant and necessary to the purpose for which the system is being designed?
 ##Does this system or electronic collection derive new data or create previously unavailable data about an individual through data aggregation?
 ##Will the new data be placed in the individual’s record?
@@ -53,10 +61,10 @@ If yes, explain the issues and circumstances of being able to opt-out (either fo
 ##Is the system using technologies in ways that the DOI has not previously employed (e.g., monitoring software, SmartCards or Caller ID)?
 ##Will this system provide the capability to identify, locate and monitor individuals?
 ##What kinds of information are collected as a function of the monitoring of individuals?
-##What controls will be used to prevent unauthorized monitoring?
+##What controls are in place to prevent the misuse (e.g., browsing) of data by those having access? 
 ##How will the PII be secured? 
-##Who will be responsible for protecting the privacy rights of the public and employees? This includes officials responsible for addressing Privacy Act complaints and requests for redress or amendment of records.
-##Who is responsible for assuring proper use of the data and for reporting the loss, compromise, unauthorized disclosure, or unauthorized access of privacy protected information?
+##Who will be responsible for protecting the privacy rights of the individuals whose PII is collected, maintained, or shared on the system?  Have policies and/or procedures been established for this responsibility and accountability?   This includes officials responsible for addressing Privacy Act complaints and requests for redress or amendment of records.
+##Who is responsible for assuring safeguards for the PII?  Who is responsible for reporting the loss, compromise, unauthorized disclosure, or unauthorized access of privacy protected information?
 
 #Approval
 ##Information System Owner
