@@ -4,10 +4,13 @@
 ##Is a PIA required? 
 - [ ] Yes
 - [ ] No
+
 ##Is this a new PIA or a modification?
 - [ ] New PIA
 - [ ] Modification of existing PIA
+
 If a modification, what was the name of the previous PIA?
+
 ##What is this system for?
 ##What is the legal authority? 
 ##Is this information system registered in CSAM? 
@@ -24,11 +27,42 @@ If a modification, what was the name of the previous PIA?
 | Enter text | Select One                                        | Enter Text  | Enter Text                   | Enter Text |
 | Enter text | Select One                                        | Enter Text  | Enter Text                   | Enter Text |
 
-##What PII (name, social security number, date of birth, address, etc.) will be collected?  Select all that apply:
+##Indicate below what information is collected, maintained, or disseminated. (Check all that apply.)
+
 - [ ] Name
 - [ ] Address
+- [ ] Telephone number
+- [ ] Email address
+- [ ] Gender
+- [ ] Age
 - [ ] Social Security Number
-##What is the source for the PII collected?  
+- [ ] Other (describe)
+
+##Indicate the sources for this information. (Check all that apply):
+
+Directly from the individual about whom the information pertains
+- [ ] In person
+- [ ] Telephone
+- [ ] Hard copy: mail / fax
+- [ ] Email
+- [ ] Online
+- [ ] Other (describe)
+
+Government sources
+- [ ] Within the bureau
+- [ ] Within the agency
+- [ ] Within another federal entity or entities
+- [ ] State, local, tribal
+- [ ] Foreigh
+- [ ] Other (describe)
+
+Non-government sources
+- [ ] Members of the public
+- [ ] Commercial data brokers
+- [ ] Public media, interest
+- [ ] Private sector
+- [ ] Other (describe)
+
 ##How will the information be collected?  
 ##What is the intended use of the PII collected?
 ##With whom will the PII be shared, both within DOI and outside DOI?  
