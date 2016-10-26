@@ -21,6 +21,7 @@ Need more guidance?  The [DOI PIA Guide](https://www.doi.gov/sites/doi.gov/files
 
 
 3.6 Do individuals have an opportunity to consent to providing information?
+
 |Check one |        |                                                                                               |
 |----------|--------|-----------------------------------------------------------------------------------------------|
 |          | Yes    | Specify how:                                                                                  |
@@ -29,18 +30,21 @@ Need more guidance?  The [DOI PIA Guide](https://www.doi.gov/sites/doi.gov/files
 
 3.7 Can individuals “opt-out” by declining to provide PII or by consenting only to a particular use?
 (e.g., allowing basic use of personal information, but not sharing with other government agencies)
+
 |Check one |        |                                                                                               |
 |----------|--------|-----------------------------------------------------------------------------------------------|
 |          | Yes    | Specify how:                                                                                  |
 |          | No     | Specify why not:                                                                              |
 
 4.1 Are data collected from sources other than DOI records be verified for accuracy?
+
 |Check one |        |                                                                                               |
 |----------|--------|-----------------------------------------------------------------------------------------------|
 |          | Yes    | Specify how:                                                                                  |
 |          | No     | Specify why not:                                                                              |
 
 4.2 Are data collected verified for accuracy?
+
 |Check one |        |                                                                                               |
 |----------|--------|-----------------------------------------------------------------------------------------------|
 |          | Yes    | Specify how:                                                                                  |
