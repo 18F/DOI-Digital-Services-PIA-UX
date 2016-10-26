@@ -79,11 +79,11 @@ How will the information be collected, and what will it be used for?
 ####Information Mapping
 Describe where information is being collected and stored within specific components of the system.  
 
-| Components | Does this function collect or store PII? (Yes/No) | Type of PII               | Reason for Collection of PII | Safeguards |
-|------------|---------------------------------------------------|-------------|------------------------------|------------|
-| Enter text | Select One                                        | Enter Text                | Enter Text                   | Enter Text |
-| Enter text | Select One                                        | Enter Text                | Enter Text                   | Enter Text |
-| Enter text | Select One                                        | Enter Text                | Enter Text                   | Enter Text |
+| Components | Does this function collect or store PII?  | Type of PII               | Reason for Collection of PII | Safeguards |
+|------------|-------------------------------------------|---------------------------|------------------------------|------------|
+| Enter text | Yes / No                                  | Enter Text                | Enter Text                   | Enter Text |
+| Enter text | Yes / No                                  | Enter Text                | Enter Text                   | Enter Text |
+| Enter text | Yes / No                                  | Enter Text                | Enter Text                   | Enter Text |
 
 How will the information be retrieved from the system?  List the identifiers that will be used to retrieve information (e.g., name, case number, etc.).
 
@@ -110,15 +110,16 @@ Indicate with whom the component intends to share the information in the system 
 ##Informed Consent
 Do individuals have an opportunity to consent to providing information?
 
-|   | Yes, individuals have an opportunity to consent to particular uses of the information.     | Specify how:                           |
-|---|--------------------------------------------------------------------------------|----------------------------------------|
-|   | No, individuals do not have the opportunity to consent to particular uses of the information. | Specify why not:                       |
+|Check one |        |                                                                                               |
+|----------|--------|-----------------------------------------------------------------------------------------------|
+|          | Yes    | Specify how:                                                                                  |
+|          | No     | Specify why not:                                                                              |
 
 Can individuals “opt-out” by declining to provide PII or by consenting only to a particular use (e.g., allowing basic use of their personal information, but not sharing with other government agencies)?
-
-|   | Yes.  Individuals have the opportunity to decline to provide information.      | Specify how:                           |
-|---|--------------------------------------------------------------------------------|----------------------------------------|
-|   | No. Individuals do not have the opportunity to decline to provide information. | Specify why not:                       |
+|Check one |        |                                                                                               |
+|----------|--------|-----------------------------------------------------------------------------------------------|
+|          | Yes    | Specify how:                                                                                  |
+|          | No     | Specify why not:                                                                              |
 
 Will reports be produced on individuals?
 
@@ -136,29 +137,60 @@ Indicate the legal authorities, policies, or agreements that authorize collectio
 
 #Maintenance and Administrative Controls
 ##Are data collected from sources other than DOI records be verified for accuracy?
-|---|------|-----------------------------------------------------------------------------------------------------|
-|   | Yes. | Specify how:                                                                                        |
-|   | No.  | Specify why not:                                                                                    |
+|Check one |        |                                                                                               |
+|----------|--------|-----------------------------------------------------------------------------------------------|
+|          | Yes    | Specify how:                                                                                  |
+|          | No     | Specify why not:                                                                              |
 
 ##Are data collected verified for accuracy?
-|---|------------|-----------------------------------------------------------------------------------------------|
-|   | Yes.       | Specify how:                                                                                  |
-|   | No.        | Specify why not:                                                                              |
+|Check one |        |                                                                                               |
+|----------|--------|-----------------------------------------------------------------------------------------------|
+|          | Yes    | Specify how:                                                                                  |
+|          | No     | Specify why not:                                                                              |
 
-##Is the PII current?  How is this determined? 
-##What are the procedures for disposition of the PII at the end of the retention period?  How long will any reports that contain PII be maintained?  How is the information disposed (e.g., shredding, degaussing, overwriting, etc.)?  Who establishes the decommissioning procedures?  
-##Briefly describe privacy risks and information handling practices at each stage of the “information lifecycle” (i.e., collection, use, retention, processing, disclosure and destruction) affect individual privacy.
+Is the PII current?  How is this determined? 
+
+##Data Retention
+What are the procedures for disposition of the PII at the end of the retention period?  
+
+How long will any reports that contain PII be maintained?  
+
+How is the information disposed (e.g., shredding, degaussing, overwriting, etc.)?  
+
+Who establishes the decommissioning procedures?
 
 #PII Safeguards and Liabilities
-##Is the use of the data both relevant and necessary to the purpose for which the system is being designed?
-##Does this system or electronic collection derive new data or create previously unavailable data about an individual through data aggregation?
-##Will the new data be placed in the individual’s record?
-##Can the system make determinations about individuals that would not be possible without the new data?
+Briefly describe privacy risks and information handling practices at each stage of the “information lifecycle” (i.e., collection, use, retention, processing, disclosure and destruction) affect individual privacy.
+
+Is the use of the data both relevant and necessary to the purpose for which the system is being designed?
+|Check one |        |                                                                                               |
+|----------|--------|-----------------------------------------------------------------------------------------------|
+|          | Yes    | Specify how:                                                                                  |
+|          | No     | Specify why not:                                                                              |
+
+Does this system or electronic collection derive new data or create previously unavailable data about an individual through data aggregation?
+|Check one |        |                                                                                               |
+|----------|--------|-----------------------------------------------------------------------------------------------|
+|          | Yes    | Specify how:                                                                                  |
+|          | No     | Specify why not:                                                                              |
+
+Will the new data be placed in the individual’s record?
+- [ ] Yes
+- [ ] No
+
+Can the system make determinations about individuals that would not be possible without the new data?
+|Check one |        |                                                                                               |
+|----------|--------|-----------------------------------------------------------------------------------------------|
+|          | Yes    | Specify how:                                                                                  |
+|          | No     | Specify why not:                                                                              |
+
 ##How will the new data be verified for relevance and accuracy?
 ##Are the data or the processes being consolidated?
 ##Who will have access to data in the system or electronic collection?  
 ##How is user access to data determined?  Will users have access to all data or will access be restricted?
-##Are contractors involved with the design and/or development of the system, or will they be involved with the maintenance of the system?
+Are contractors involved with the design and/or development of the system, or will they be involved with the maintenance of the system?
+
+
 ##Is the system using technologies in ways that the DOI has not previously employed (e.g., monitoring software, SmartCards or Caller ID)?
 ##Will this system provide the capability to identify, locate and monitor individuals?
 ##What kinds of information are collected as a function of the monitoring of individuals?
