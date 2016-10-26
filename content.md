@@ -1,7 +1,16 @@
-#Privacy Impact Assessment for <input type="text" id="name" name="name"/>
+#Privacy Impact Assessment for [Sytem Name]
+##Version Number: [x.x]
+##Version Date: [mm/dd/yyyy]
+##Issued by: [Senior Official for Privacy (if designated, otherwise the privacy point of contact)]
 
+##Contact Information
 
-#Contact Information
+##Revision History
+| Date | Version  | Pages | Description | Author |
+|------------|---------------------------------------------------|-------------|------------------------------|------------|
+| month dd, yyyy | x.x                                        | All or specific  | Describe changes                   | Last Name |
+|  |                                        |   |                    |  |
+|  |                                         |   |                  |  |
 
 #General System Information
 ##Is a PIA required? 
