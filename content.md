@@ -13,9 +13,9 @@
 #Introduction
 The Department of the Interior requires PIAs to be conducted and maintained on all IT systems whether already in existence, in development or undergoing modification in order to adequately evaluate privacy risks, ensure the protection of privacy information, and consider privacy implications throughout the information system development life cycle.  
 
-Need more guidance?  The [DOI PIA Guide] provides more in-depth information on when and why PIAs are required, legal references and guidelines for filling out this template.  You can also contact DOI's privacy office: 
+Need more guidance?  The [DOI PIA Guide](https://www.doi.gov/sites/doi.gov/files/migrated/ocio/information_assurance/privacy/upload/DOI-PIA-Guide-09-30-2014.pdf) provides more in-depth information on when and why PIAs are required, legal references and guidelines for filling out this template.  You can also email the [Departmental Privacy Office](mailto:DOI_Privacy@ios.doi.gov) for more help. 
 
-##Contact Information
+#Contact and General System Information
 
 |                    | Primary Point of Contact                                  |
 |--------------------|-----------------------------------------------------------|
@@ -25,7 +25,6 @@ Need more guidance?  The [DOI PIA Guide] provides more in-depth information on w
 | Phone Number       | Click here to enter text.                                 |
 | Email Address      | Click here to enter text.                                 |
 
-#General System Information
 ##Is a PIA required? 
 - [ ] Yes
 - [ ] No
@@ -50,7 +49,7 @@ Indicate below what information is collected, maintained, or disseminated. (Chec
 - [ ] Social Security Number
 - [ ] Other (describe)
 
-Indicate the sources for this information. (Check all that apply):
+**Indicate the sources for this information. (Check all that apply):**
 
 Directly from the individual about whom the information pertains
 - [ ] In person
@@ -75,11 +74,7 @@ Non-government sources
 - [ ] Private sector
 - [ ] Other (describe)
 
-How will the information be collected?  
-
-What is the intended use of the PII collected?
-
-How will the data be retrieved from the system?  List the identifiers that will be used to retrieve information (e.g., name, case number, etc.).
+How will the information be collected, and what will it be used for?
 
 ####Information Mapping
 Describe where information is being collected and stored within specific components of the system.  
@@ -89,6 +84,8 @@ Describe where information is being collected and stored within specific compone
 | Enter text | Select One                                        | Enter Text                | Enter Text                   | Enter Text |
 | Enter text | Select One                                        | Enter Text                | Enter Text                   | Enter Text |
 | Enter text | Select One                                        | Enter Text                | Enter Text                   | Enter Text |
+
+How will the information be retrieved from the system?  List the identifiers that will be used to retrieve information (e.g., name, case number, etc.).
 
 ####Other system information
 | Other system information                                         |                                             |
@@ -110,17 +107,6 @@ Indicate with whom the component intends to share the information in the system 
 | Private sector                          |               |               |               |                 |
 | Other (specify)                         |               |               |               |                 |
 
-##Legal Authorities
-Indicate the legal authorities, policies, or agreements that authorize collection of the information in the system. (Check all that apply and include citation/reference.)
-
-| Authority                                              | Citation/Reference                                             |
-|--------------------------------------------------------|----------------------------------------------------------------|
-| Statute                                                | Citation                                                       |
-| Executive Order                                        | Citation                                                       |
-| Federal Regulation                                     | Citation                                                       |
-| Memorandum of Understanding/agreement                  | Citation                                                       |
-| Other (summarize and provide copy of relevant portion) | Citation                                                       |
-
 ##Informed Consent
 Do individuals have an opportunity to consent to providing information?
 
@@ -136,11 +122,30 @@ Can individuals “opt-out” by declining to provide PII or by consenting only 
 
 Will reports be produced on individuals?
 
+##Legal Authorities
+Indicate the legal authorities, policies, or agreements that authorize collection of the information in the system. (Check all that apply and include citation/reference.)
+
+| Authority                                              | Citation/Reference                                             |
+|--------------------------------------------------------|----------------------------------------------------------------|
+| Statute                                                | Citation                                                       |
+| Executive Order                                        | Citation                                                       |
+| Federal Regulation                                     | Citation                                                       |
+| Memorandum of Understanding/agreement                  | Citation                                                       |
+| Other (summarize and provide copy of relevant portion) | Citation                                                       |
+
+
 #Maintenance and Administrative Controls
-##How will data collected from sources other than DOI records be verified for accuracy?
-##Is the PII collected verified for accuracy?  Why or why not?  
+##Are data collected from sources other than DOI records be verified for accuracy?
+|---|------|-----------------------------------------------------------------------------------------------------|
+|   | Yes. | Specify how:                                                                                        |
+|   | No.  | Specify why not:                                                                                    |
+
+##Are data collected verified for accuracy?
+|---|------------|-----------------------------------------------------------------------------------------------|
+|   | Yes.       | Specify how:                                                                                  |
+|   | No.        | Specify why not:                                                                              |
+
 ##Is the PII current?  How is this determined? 
-##What are the retention periods of PII for this system?  Under what guidelines are the retention periods determined?  Who establishes the retention guidelines?  
 ##What are the procedures for disposition of the PII at the end of the retention period?  How long will any reports that contain PII be maintained?  How is the information disposed (e.g., shredding, degaussing, overwriting, etc.)?  Who establishes the decommissioning procedures?  
 ##Briefly describe privacy risks and information handling practices at each stage of the “information lifecycle” (i.e., collection, use, retention, processing, disclosure and destruction) affect individual privacy.
 
