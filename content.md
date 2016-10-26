@@ -25,8 +25,6 @@ Need more guidance?  The [DOI PIA Guide] provides more in-depth information on w
 | Phone Number       | Click here to enter text. |
 | Email Address      | Click here to enter text. |
 
-
-
 #General System Information
 ##Is a PIA required? 
 - [ ] Yes
@@ -36,20 +34,19 @@ Need more guidance?  The [DOI PIA Guide] provides more in-depth information on w
 - [ ] New PIA
 - [ ] Modification of existing PIA
 
-###If a modification, what was the name of the previous PIA?
+If a modification, what was the name of the previous PIA?
 
-##What is this system for?  Please describe the sytem.
-In non-technical terms, provide a description of the system that addresses: 
+##System Description
+In non-technical terms, provide a description of the system that addresses the sections below.  Use plain language and be as comprehensive as necessary to describe the system.  You can include system diagram(s) if they will improve the public's understanding of the system: 
 
-(a) the purpose that the records and/or system are designed to serve;
-(b) the way the system operates to achieve the purpose(s);
-(c) the type of information collected, maintained, used, or disseminated by the system; (d) who has access to information in the system;
-(e) how information in the system is retrieved by the user;
-(f) how information is transmitted to and from the system;
-(g) whether it is a standalone system or interconnects with other systems (identifying and describing any other systems to which it interconnects); and
-(h) whether it is a general support system, major application, or other type of system.
-
-The response should be written in plain language and should be as comprehensive as necessary to describe the system. If it would enhance the public’s understanding of the system, please include system diagram(s).
+- the purpose that the records and/or system are designed to serve;
+- the way the system operates to achieve the purpose(s);
+- the type of information collected, maintained, used, or disseminated by the system; 
+- who has access to information in the system;
+- how information in the system is retrieved by the user;
+- how information is transmitted to and from the system;
+- whether it is a standalone system or interconnects with other systems (identifying and describing any other systems to which it interconnects); and
+- whether it is a general support system, major application, or other type of system.
 
 ##Indicate the legal authorities, policies, or agreements that authorize collection of the information in the system. (Check all that apply and include citation/reference.)
 
@@ -79,7 +76,7 @@ The response should be written in plain language and should be as comprehensive 
 | OMB Control Number required?                                     | If yes - enter OMB control number here.     |
 | What minor applications or subsystems are hosted on this system? | List minor applications or subsystems here. |
 
-##Indicate below what information is collected, maintained, or disseminated. (Check all that apply.)
+####Indicate below what information is collected, maintained, or disseminated. (Check all that apply.)
 
 - [ ] Name
 - [ ] Address
@@ -90,9 +87,9 @@ The response should be written in plain language and should be as comprehensive 
 - [ ] Social Security Number
 - [ ] Other (describe)
 
-##Indicate the sources for this information. (Check all that apply):
+####Indicate the sources for this information. (Check all that apply):
 
-###Directly from the individual about whom the information pertains
+Directly from the individual about whom the information pertains
 - [ ] In person
 - [ ] Telephone
 - [ ] Hard copy: mail / fax
@@ -100,7 +97,7 @@ The response should be written in plain language and should be as comprehensive 
 - [ ] Online
 - [ ] Other (describe)
 
-###Government sources
+Government sources
 - [ ] Within the bureau
 - [ ] Within the agency
 - [ ] Within another federal entity or entities
@@ -108,7 +105,7 @@ The response should be written in plain language and should be as comprehensive 
 - [ ] Foreigh
 - [ ] Other (describe)
 
-###Non-government sources
+Non-government sources
 - [ ] Members of the public
 - [ ] Commercial data brokers
 - [ ] Public media, interest
@@ -117,13 +114,30 @@ The response should be written in plain language and should be as comprehensive 
 
 ##How will the information be collected?  
 ##What is the intended use of the PII collected?
-##With whom will the PII be shared, both within DOI and outside DOI?  
-##What information is provided to an individual when asked to provide PII data?  
-##Can individuals “opt-out” by declining to provide PII or by consenting only to a particular use (e.g., allowing basic use of their personal information, but not sharing with other government agencies)?
-- [ ] Yes  
-- [ ] No
 
-If yes, explain the issues and circumstances of being able to opt-out (either for specific data elements or specific uses of the data): 
+##Information Sharing
+Indicate with whom the component intends to share the information in the system and how the information will be shared, such as on a case-by-case basis, bulk transfer, or direct access.
+
+| Recipient                               | Case- by-case | Bulk transfer | Direct access | Other (specify) |
+|-----------------------------------------|---------------|---------------|---------------|-----------------|
+| DOI                                     |               |               |               |                 |
+| Other Federal agencies                  |               |               |               |                 |
+| State or local or tribal gov’t entities |               |               |               |                 |
+| Public                                  |               |               |               |                 |
+| Private sector                          |               |               |               |                 |
+| Other (specify)                         |               |               |               |                 |
+
+##Do individuals have an opportunity to consent to providing information?
+
+|   | Yes, individuals have an opportunity to consent to particular uses of the information.     | Specify how:                           |
+|---|--------------------------------------------------------------------------------|----------------------------------------|
+|   | No, individuals do not have the opportunity to consent to particular uses of the information. | Specify why not:                       |
+
+##Can individuals “opt-out” by declining to provide PII or by consenting only to a particular use (e.g., allowing basic use of their personal information, but not sharing with other government agencies)?
+
+|   | Yes.  Individuals have the opportunity to decline to provide information.      | Specify how:                           |
+|---|--------------------------------------------------------------------------------|----------------------------------------|
+|   | No. Individuals do not have the opportunity to decline to provide information. | Specify why not:                       |
 
 ##How will the data be retrieved?  List the identifiers that will be used to retrieve information (e.g., name, case number, etc.).
 ##Will reports be produced on individuals?
