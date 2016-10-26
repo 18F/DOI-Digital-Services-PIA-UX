@@ -1,9 +1,9 @@
 #Privacy Impact Assessment for [Sytem Name]
-##Version Number: [x.x]
-##Version Date: [mm/dd/yyyy]
-##Issued by: [Senior Official for Privacy (if designated, otherwise the privacy point of contact)]
+####Version Number: [x.x]
+####Version Date: [mm/dd/yyyy]
+####Issued by: [Senior Official for Privacy (if designated, otherwise the privacy point of contact)]
 
-##Revision History
+####Revision History
 | Date           | Version  | Pages            | Description                        | Author               |
 |----------------|----------|------------------|------------------------------------|----------------------|
 | month dd, yyyy | x.x      | All or specific  | Describe changes                   | Last Name            |
@@ -17,13 +17,13 @@ Need more guidance?  The [DOI PIA Guide] provides more in-depth information on w
 
 ##Contact Information
 
-|                    | Primary Point of Contact  |
-|--------------------|---------------------------|
-| Title              | Click here to enter text. |
-| Organization       | Click here to enter text. |
-| Address            | Click here to enter text. |
-| Phone Number       | Click here to enter text. |
-| Email Address      | Click here to enter text. |
+|                    | Primary Point of Contact                                  |
+|--------------------|-----------------------------------------------------------|
+| Title              | Click here to enter text.                                 |
+| Organization       | Click here to enter text.                                 |
+| Address            | Click here to enter text.                                 |
+| Phone Number       | Click here to enter text.                                 |
+| Email Address      | Click here to enter text.                                 |
 
 #General System Information
 ##Is a PIA required? 
@@ -50,25 +50,23 @@ In non-technical terms, provide a description of the system that addresses the s
 
 ##Indicate the legal authorities, policies, or agreements that authorize collection of the information in the system. (Check all that apply and include citation/reference.)
 
-| Authority                                              | Citation/Reference |
-|--------------------------------------------------------|--------------------|
-| Statute                                                | Citation           |
-| Executive Order                                        | Citation           |
-| Federal Regulation                                     | Citation           |
-| Memorandum of Understanding/agreement                  | Citation           |
-| Other (summarize and provide copy of relevant portion) | Citation           |
+| Authority                                              | Citation/Reference                                             |
+|--------------------------------------------------------|----------------------------------------------------------------|
+| Statute                                                | Citation                                                       |
+| Executive Order                                        | Citation                                                       |
+| Federal Regulation                                     | Citation                                                       |
+| Memorandum of Understanding/agreement                  | Citation                                                       |
+| Other (summarize and provide copy of relevant portion) | Citation                                                       |
 
 #Summary of System Data
-##PII Mapping
-
-| Components | Does this function collect or store PII? (Yes/No) | Type of PII | Reason for Collection of PII | Safeguards |
+####PII Mapping
+| Components | Does this function collect or store PII? (Yes/No) | Type of PII               | Reason for Collection of PII | Safeguards |
 |------------|---------------------------------------------------|-------------|------------------------------|------------|
-| Enter text | Select One                                        | Enter Text  | Enter Text                   | Enter Text |
-| Enter text | Select One                                        | Enter Text  | Enter Text                   | Enter Text |
-| Enter text | Select One                                        | Enter Text  | Enter Text                   | Enter Text |
+| Enter text | Select One                                        | Enter Text                | Enter Text                   | Enter Text |
+| Enter text | Select One                                        | Enter Text                | Enter Text                   | Enter Text |
+| Enter text | Select One                                        | Enter Text                | Enter Text                   | Enter Text |
 
-##Other system information
-
+####Other system information
 | Other system information                                         |                                             |
 |------------------------------------------------------------------|---------------------------------------------|
 | System registered in CSAM?                                       | Yes/No                                      |
