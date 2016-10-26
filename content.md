@@ -37,44 +37,9 @@ Need more guidance?  The [DOI PIA Guide] provides more in-depth information on w
 If a modification, what was the name of the previous PIA?
 
 ##System Description
-In non-technical terms, provide a description of the system that addresses the sections below.  Use plain language and be as comprehensive as necessary to describe the system.  You can include system diagram(s) if they will improve the public's understanding of the system: 
+In non-technical terms, provide a high level summary of the system.  Use plain language and be as comprehensive as necessary to describe the system.  You can include system diagram(s) if they will improve the public's understanding of the system.
 
-- the purpose that the records and/or system are designed to serve;
-- the way the system operates to achieve the purpose(s);
-- the type of information collected, maintained, used, or disseminated by the system; 
-- who has access to information in the system;
-- how information in the system is retrieved by the user;
-- how information is transmitted to and from the system;
-- whether it is a standalone system or interconnects with other systems (identifying and describing any other systems to which it interconnects); and
-- whether it is a general support system, major application, or other type of system.
-
-##Indicate the legal authorities, policies, or agreements that authorize collection of the information in the system. (Check all that apply and include citation/reference.)
-
-| Authority                                              | Citation/Reference                                             |
-|--------------------------------------------------------|----------------------------------------------------------------|
-| Statute                                                | Citation                                                       |
-| Executive Order                                        | Citation                                                       |
-| Federal Regulation                                     | Citation                                                       |
-| Memorandum of Understanding/agreement                  | Citation                                                       |
-| Other (summarize and provide copy of relevant portion) | Citation                                                       |
-
-#Summary of System Data
-####PII Mapping
-| Components | Does this function collect or store PII? (Yes/No) | Type of PII               | Reason for Collection of PII | Safeguards |
-|------------|---------------------------------------------------|-------------|------------------------------|------------|
-| Enter text | Select One                                        | Enter Text                | Enter Text                   | Enter Text |
-| Enter text | Select One                                        | Enter Text                | Enter Text                   | Enter Text |
-| Enter text | Select One                                        | Enter Text                | Enter Text                   | Enter Text |
-
-####Other system information
-| Other system information                                         |                                             |
-|------------------------------------------------------------------|---------------------------------------------|
-| System registered in CSAM?                                       | Yes/No                                      |
-| Published Privacy Act System of Records Notice (SORN) required?  | Yes/No                                      |
-| OMB Control Number required?                                     | If yes - enter OMB control number here.     |
-| What minor applications or subsystems are hosted on this system? | List minor applications or subsystems here. |
-
-####Indicate below what information is collected, maintained, or disseminated. (Check all that apply.)
+Indicate below what information is collected, maintained, or disseminated. (Check all that apply.)
 
 - [ ] Name
 - [ ] Address
@@ -85,7 +50,7 @@ In non-technical terms, provide a description of the system that addresses the s
 - [ ] Social Security Number
 - [ ] Other (describe)
 
-####Indicate the sources for this information. (Check all that apply):
+Indicate the sources for this information. (Check all that apply):
 
 Directly from the individual about whom the information pertains
 - [ ] In person
@@ -110,8 +75,28 @@ Non-government sources
 - [ ] Private sector
 - [ ] Other (describe)
 
-##How will the information be collected?  
-##What is the intended use of the PII collected?
+How will the information be collected?  
+
+What is the intended use of the PII collected?
+
+How will the data be retrieved from the system?  List the identifiers that will be used to retrieve information (e.g., name, case number, etc.).
+
+####Information Mapping
+Describe where information is being collected and stored within specific components of the system.  
+
+| Components | Does this function collect or store PII? (Yes/No) | Type of PII               | Reason for Collection of PII | Safeguards |
+|------------|---------------------------------------------------|-------------|------------------------------|------------|
+| Enter text | Select One                                        | Enter Text                | Enter Text                   | Enter Text |
+| Enter text | Select One                                        | Enter Text                | Enter Text                   | Enter Text |
+| Enter text | Select One                                        | Enter Text                | Enter Text                   | Enter Text |
+
+####Other system information
+| Other system information                                         |                                             |
+|------------------------------------------------------------------|---------------------------------------------|
+| System registered in CSAM?                                       | Yes/No                                      |
+| Published Privacy Act System of Records Notice (SORN) required?  | Yes/No                                      |
+| OMB Control Number required?                                     | If yes - enter OMB control number here.     |
+| What minor applications or subsystems are hosted on this system? | List minor applications or subsystems here. |
 
 ##Information Sharing
 Indicate with whom the component intends to share the information in the system and how the information will be shared, such as on a case-by-case basis, bulk transfer, or direct access.
@@ -125,20 +110,31 @@ Indicate with whom the component intends to share the information in the system 
 | Private sector                          |               |               |               |                 |
 | Other (specify)                         |               |               |               |                 |
 
-##Do individuals have an opportunity to consent to providing information?
+##Legal Authorities
+Indicate the legal authorities, policies, or agreements that authorize collection of the information in the system. (Check all that apply and include citation/reference.)
+
+| Authority                                              | Citation/Reference                                             |
+|--------------------------------------------------------|----------------------------------------------------------------|
+| Statute                                                | Citation                                                       |
+| Executive Order                                        | Citation                                                       |
+| Federal Regulation                                     | Citation                                                       |
+| Memorandum of Understanding/agreement                  | Citation                                                       |
+| Other (summarize and provide copy of relevant portion) | Citation                                                       |
+
+##Informed Consent
+Do individuals have an opportunity to consent to providing information?
 
 |   | Yes, individuals have an opportunity to consent to particular uses of the information.     | Specify how:                           |
 |---|--------------------------------------------------------------------------------|----------------------------------------|
 |   | No, individuals do not have the opportunity to consent to particular uses of the information. | Specify why not:                       |
 
-##Can individuals “opt-out” by declining to provide PII or by consenting only to a particular use (e.g., allowing basic use of their personal information, but not sharing with other government agencies)?
+Can individuals “opt-out” by declining to provide PII or by consenting only to a particular use (e.g., allowing basic use of their personal information, but not sharing with other government agencies)?
 
 |   | Yes.  Individuals have the opportunity to decline to provide information.      | Specify how:                           |
 |---|--------------------------------------------------------------------------------|----------------------------------------|
 |   | No. Individuals do not have the opportunity to decline to provide information. | Specify why not:                       |
 
-##How will the data be retrieved?  List the identifiers that will be used to retrieve information (e.g., name, case number, etc.).
-##Will reports be produced on individuals?
+Will reports be produced on individuals?
 
 #Maintenance and Administrative Controls
 ##How will data collected from sources other than DOI records be verified for accuracy?
