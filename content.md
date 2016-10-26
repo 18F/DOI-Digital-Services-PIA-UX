@@ -3,6 +3,18 @@
 ##Version Date: [mm/dd/yyyy]
 ##Issued by: [Senior Official for Privacy (if designated, otherwise the privacy point of contact)]
 
+##Revision History
+| Date           | Version  | Pages            | Description                        | Author               |
+|----------------|----------|------------------|------------------------------------|----------------------|
+| month dd, yyyy | x.x      | All or specific  | Describe changes                   | Last Name            |
+| month dd, yyyy | x.x      | All or specific  | Describe changes                   | Last Name            |
+| month dd, yyyy | x.x      | All or specific  | Describe changes                   | Last Name            |
+
+#Introduction
+The Department of the Interior requires PIAs to be conducted and maintained on all IT systems whether already in existence, in development or undergoing modification in order to adequately evaluate privacy risks, ensure the protection of privacy information, and consider privacy implications throughout the information system development life cycle.  
+
+Need more guidance?  The [DOI PIA Guide] provides more in-depth information on when and why PIAs are required, legal references and guidelines for filling out this template.  You can also contact DOI's privacy office: 
+
 ##Contact Information
 
 |                    | Primary Point of Contact  |
@@ -13,20 +25,7 @@
 | Phone Number       | Click here to enter text. |
 | Email Address      | Click here to enter text. |
 
-|                    | Secondary Point of Contact|
-|--------------------|---------------------------|
-| Title              | Click here to enter text. |
-| Organization       | Click here to enter text. |
-| Address            | Click here to enter text. |
-| Phone Number       | Click here to enter text. |
-| Email Address      | Click here to enter text. |
 
-##Revision History
-| Date           | Version  | Pages            | Description                        | Author               |
-|----------------|----------|------------------|------------------------------------|----------------------|
-| month dd, yyyy | x.x      | All or specific  | Describe changes                   | Last Name            |
-| month dd, yyyy | x.x      | All or specific  | Describe changes                   | Last Name            |
-| month dd, yyyy | x.x      | All or specific  | Describe changes                   | Last Name            |
 
 #General System Information
 ##Is a PIA required? 
@@ -39,12 +38,28 @@
 
 ###If a modification, what was the name of the previous PIA?
 
-##What is this system for?
-##What is the legal authority? 
-##Is this information system registered in CSAM? 
-##List all minor applications or subsystems that are hosted on this system and covered under this privacy impact assessment. 
-##Does this information system or electronic collection require a published Privacy Act System of Records Notice (SORN)? 
-##Does this information system or electronic collection require an OMB Control Number?
+##What is this system for?  Please describe the sytem.
+In non-technical terms, provide a description of the system that addresses: 
+
+(a) the purpose that the records and/or system are designed to serve;
+(b) the way the system operates to achieve the purpose(s);
+(c) the type of information collected, maintained, used, or disseminated by the system; (d) who has access to information in the system;
+(e) how information in the system is retrieved by the user;
+(f) how information is transmitted to and from the system;
+(g) whether it is a standalone system or interconnects with other systems (identifying and describing any other systems to which it interconnects); and
+(h) whether it is a general support system, major application, or other type of system.
+
+The response should be written in plain language and should be as comprehensive as necessary to describe the system. If it would enhance the public’s understanding of the system, please include system diagram(s).
+
+##Indicate the legal authorities, policies, or agreements that authorize collection of the information in the system. (Check all that apply and include citation/reference.)
+
+| Authority                                              | Citation/Reference |
+|--------------------------------------------------------|--------------------|
+| Statute                                                | Citation           |
+| Executive Order                                        | Citation           |
+| Federal Regulation                                     | Citation           |
+| Memorandum of Understanding/agreement                  | Citation           |
+| Other (summarize and provide copy of relevant portion) | Citation           |
 
 #Summary of System Data
 ##PII Mapping
@@ -54,6 +69,15 @@
 | Enter text | Select One                                        | Enter Text  | Enter Text                   | Enter Text |
 | Enter text | Select One                                        | Enter Text  | Enter Text                   | Enter Text |
 | Enter text | Select One                                        | Enter Text  | Enter Text                   | Enter Text |
+
+##Other system information
+
+| Other system information                                         |                                             |
+|------------------------------------------------------------------|---------------------------------------------|
+| System registered in CSAM?                                       | Yes/No                                      |
+| Published Privacy Act System of Records Notice (SORN) required?  | Yes/No                                      |
+| OMB Control Number required?                                     | If yes - enter OMB control number here.     |
+| What minor applications or subsystems are hosted on this system? | List minor applications or subsystems here. |
 
 ##Indicate below what information is collected, maintained, or disseminated. (Check all that apply.)
 
