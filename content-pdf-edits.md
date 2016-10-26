@@ -1,9 +1,6 @@
 
-Privacy Impact Assessment
-
-Please complete this form if collecting or maintaining information from the general public, Federal personnel and/or Federal contractors, and Volunteers.
-
 Introduction
+
 The Department of the Interior requires PIAs to be conducted and maintained on all IT systems whether already in existence, in development or undergoing modification in order to adequately evaluate privacy risks, ensure the protection of privacy information, and consider privacy implications throughout the information system development life cycle.  
 
 Need more guidance?  The [DOI PIA Guide](https://www.doi.gov/sites/doi.gov/files/migrated/ocio/information_assurance/privacy/upload/DOI-PIA-Guide-09-30-2014.pdf) provides more in-depth information on when and why PIAs are required, legal references and guidelines for filling out this template.  You can also email the [Departmental Privacy Office](mailto:DOI_Privacy@ios.doi.gov) for more help. 
