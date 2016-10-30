@@ -6,6 +6,8 @@ Agencies collect information for the PIA through different templates.  Some appe
 
 [U.S. Department of the Interior (full guide + form)](https://www.doi.gov/sites/doi.gov/files/migrated/ocio/information_assurance/privacy/upload/DOI-PIA-Guide-09-30-2014.pdf)
 
+[DOI PIA Examples](https://www.doi.gov/privacy/pia)
+
 ---
 
 [USDA PIA Examples](http://www.usda.gov/wps/portal/usda/usdahome?navid=PRIVACY_POLICY_ES)
