@@ -1,6 +1,9 @@
 # DOI-Digital-Services-PIA-UX
 Repository for the DOI Digital Services Privacy Impact Assessment UX project.
 
+- [GitHub link to the latest version of DOI PIA form (PDF)](https://github.com/18F/DOI-Digital-Services-PIA-UX/blob/master/DOI-PIA.pdf)
+- [Download the latest DOI PIA form (PDF)](https://github.com/18F/DOI-Digital-Services-PIA-UX/raw/master/DOI-PIA.pdf)
+
 ## A few examples...
 Agencies collect information for the PIA through different templates.  Some appear to be more user friendly than others.  Here are a few examples:
 
@@ -51,10 +54,6 @@ Agencies collect information for the PIA through different templates.  Some appe
 
 [Dept. of Transportation](https://www.transportation.gov/individuals/privacy/privacy-impact-assessments)
 
-## Other Resources 
+## Other Resources
 
 [HIMSS Guide to PIA for Health Care](https://www.himss.org/sites/himssorg/files/HIMSSorg/Content/files/D87_HIMSS_PIA_Guide_.pdf) - a good summary of PIA as applied within health care environments.
-
-
-
-
